@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&multiline=true&width=700&height=90&lines=Hello%2C+I'm+Nihar;Full+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development" alt="Typing SVG" /></a><br>
