@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hello%2C+I'm+Nihar%3CFull+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development)](https://git.io/typing-svg)<br>
+
 Software Engineering Enthusiast | Full Stack & Mobile Developer | AI/ML Explorer<br><br>💻 Passionate about building scalable web and mobile applications using Flutter, React.js, Node.js, and Spring Boot, with a growing focus on AI/ML-driven solutions like skin disease detection and intelligent automation.<br><br>📈 Always exploring new tools, certifications, and architectures to sharpen my craft as a developer.
 
 
