@@ -1,8 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&width=230&height=40&lines=Hello%2C+I'm+Nihar" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
+#hey, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&multiline=true&width=900&height=70&lines=Full+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development" alt="Typing SVG" /></a>
-
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&multiline=true&width=700&height=90&lines=Hello%2C+I'm+Nihar;Full+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development" alt="Typing SVG" /></a>
 <br/>
 
 ## About Me:
