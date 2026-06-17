@@ -1,7 +1,9 @@
 # 💫 About Me:
-<h2>Hello, I'm Nihar <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/></h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="200"/>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&multiline=true&width=700&height=60&lines=Full+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=false&vCenter=true&multiline=true&width=700&height=90&lines=Hello%2C+I'm+Nihar;Full+Stack+Developer+%26+ML+Enthusiast;Exploring+AI%2FML%2C+Mobile%2C+and+SaaS+Development" alt="Typing SVG" /></a><br>
 
 Software Engineering Enthusiast | Full Stack & Mobile Developer | AI/ML Explorer<br><br>💻 Passionate about building scalable web and mobile applications using Flutter, React.js, Node.js, and Spring Boot, with a growing focus on AI/ML-driven solutions like skin disease detection and intelligent automation.<br><br>📈 Always exploring new tools, certifications, and architectures to sharpen my craft as a developer.
 
