@@ -3,7 +3,6 @@
 <br/>
 
 ## About Me:
-
 <br>
 Software Engineering Enthusiast | Full Stack & Mobile Developer | AI/ML Explorer<br><br>💻 Passionate about building scalable web and mobile applications using Flutter, React.js, Node.js, and Spring Boot, with a growing focus on AI/ML-driven solutions like skin disease detection and intelligent automation.<br><br>📈 Always exploring new tools, certifications, and architectures to sharpen my craft as a developer.
 
